@@ -67,7 +67,7 @@ class HomeState extends State<Home>{
       appBar: AppBar(backgroundColor: Theme.of(context).colorScheme.primary,title:
        Center(child:
         Column(mainAxisAlignment: MainAxisAlignment.center,children: 
-          [Text('ElRagl El2baaaaaaaaab!',selectionColor: Color.fromARGB(0, 255, 255, 255),)],))),
+          [Text('ElRagl El3baaaaaaaaab!',selectionColor: Color.fromARGB(0, 255, 255, 255),)],))),
       body: Center(
         child:
           Column(mainAxisAlignment: MainAxisAlignment.center,
