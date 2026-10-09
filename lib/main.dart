@@ -74,6 +74,8 @@ class HomeState extends State<Home>{
           children: [
             if (num1 == num2 ) Image(image: AssetImage('../assets/happy.jpg')) else Image(image: AssetImage('../assets/sad.jpeg')),
             SizedBox(height: 40,),
+            if (num1 == num2 && win != 0) Text("Winnnnn",style:TextStyle(fontSize: 30,color: const Color.fromARGB(255, 163, 11, 0))) else if (total == 0) Text("Have a Try <3",style:TextStyle(fontSize: 30,color: const Color.fromARGB(255, 163, 11, 0)))  else Text("Yaa nhar Esowyyyd!",style:TextStyle(fontSize: 30,color: const Color.fromARGB(255, 163, 11, 0))),
+            SizedBox(height: 30,),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
