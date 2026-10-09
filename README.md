@@ -16,5 +16,6 @@ git clone https://github.com/sandosaa/ElRagl-El3nab-Dice.git
 cd ElRagl-El3nab-Dice
 flutter run
 ```
-<hr>
-If you want to watch [ELRagel El3nab](https://www.youtube.com/show/VLPL3C44W4WfEocyK595yKR7pOGEsSeyA6Kf?sbp=KgtkRlZpTEwzWnl0Z0AB)
+
+## If you want to watch [ELRagel El3nab](https://www.youtube.com/show/VLPL3C44W4WfEocyK595yKR7pOGEsSeyA6Kf?sbp=KgtkRlZpTEwzWnl0Z0AB)
+![Alt text](assets/images.jpeg)
